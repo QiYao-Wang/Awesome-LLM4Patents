@@ -7,7 +7,9 @@ introduction...
 
 ---
 
-[Papers](#papers)
+- [Papers](#papers)
+  - [Survey](#survery)
+  - [Patent Retrieval](#patent_retrieval)
 
 ---
 
