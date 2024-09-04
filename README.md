@@ -18,6 +18,6 @@ introduction...
 
 ### Survey
 
-- [March 2024]Jiang, Lekang, and Stephan Goetz. "Artificial Intelligence Exploring the Patent Field." arXiv preprint arXiv:2403.04105 (2024). [paper](https://arxiv.org/pdf/2403.04105v2)
+- [March 2024] Jiang, Lekang, and Stephan Goetz. "Artificial Intelligence Exploring the Patent Field." arXiv preprint arXiv:2403.04105 (2024). [[paper](https://arxiv.org/pdf/2403.04105v2)]
 
 ### Patent Retrieval
