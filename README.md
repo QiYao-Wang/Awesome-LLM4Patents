@@ -10,6 +10,7 @@ introduction...
 - [Papers](#papers)
   - [Survey](#survery)
   - [Patent Retrieval](#patent-retrieval)
+  - [Patent Simplification](#patent-simplification)
   - [Evaluation](#evaluation)
 ---
 
