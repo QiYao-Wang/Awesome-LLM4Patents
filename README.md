@@ -11,6 +11,7 @@ introduction...
   - [Survey](#survery)
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
+  - [Patent Information Extraction & KG](#patent-information-extraction-&-KG)
   - [Evaluation](#evaluation)
 ---
 
@@ -29,6 +30,7 @@ introduction...
 
 - 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
 
+### Patent Information Extraction & KG
 
 ### Evaluation
 
