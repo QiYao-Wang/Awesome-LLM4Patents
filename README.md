@@ -36,7 +36,8 @@
 
 ### Patent Writing
 
-- [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz* [[paper](https://arxiv.org/pdf/2406.19465)]
+- [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)]
+-  📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
 
 ### Evaluation
 
