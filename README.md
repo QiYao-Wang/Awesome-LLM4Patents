@@ -5,7 +5,7 @@
 
 ## 📢 News
 
-- [September 2024] Project Beginning. 
+- [2024-09-01] Project Beginning. 
 
 ---
 
