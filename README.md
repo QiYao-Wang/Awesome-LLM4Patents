@@ -3,7 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-introduction...
+## 📢 News
+
+- [September 2024] Project Beginning. 
 
 ---
 
