@@ -21,6 +21,7 @@
 
 > 🔥 for papers with >50 citations or repositories with >200 stars.\
 > 📖 for papers accepted by reputed conferences/journals.
+> ❌ for papers that I haven't read.
 
 ### Survey
 
@@ -30,14 +31,14 @@
 
 ### Patent Simplification
 
-- 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
+- ❌ 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
 
 ### Patent Information Extraction & KG
 
 ### Patent Writing
 
-- [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)]
--  📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
+- ❌ [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)]
+- ❌ 📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
 
 ### Evaluation
 
