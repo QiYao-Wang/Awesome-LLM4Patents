@@ -34,6 +34,10 @@
 
 ### Patent Information Extraction & KG
 
+### Patent Writing
+
+- [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz* [[paper](https://arxiv.org/pdf/2406.19465)]
+
 ### Evaluation
 
 - [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
