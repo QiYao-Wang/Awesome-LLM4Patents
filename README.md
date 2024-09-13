@@ -14,7 +14,7 @@
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
   - [Patent Information Extraction & KG](#patent-information-extraction-&-KG)
-  - [Patents (IP) with Multimodal](#patents-(IP)-with-Multimodal)
+  - [Patents (IP) with Multimodal](#patents-with-Multimodal)
   - [Evaluation](#evaluation)
 ---
 
@@ -41,7 +41,7 @@
 - ❌ [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)][[github](https://github.com/scylj1/LLM4DPCG)]
 - ❌ 📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
 
-### Patents (IP) with Multimodal
+### Patents with Multimodal
 
 ### Evaluation
 
