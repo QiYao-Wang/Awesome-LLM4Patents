@@ -14,7 +14,7 @@
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
   - [Patent Information Extraction & KG](#patent-information-extraction-&-KG)
-  - [Patents (IP) with Multimodal](#patents-with-Multimodal)
+  - [Patents (IP) with Multimodal](#patents-with-multimodal)
   - [Evaluation](#evaluation)
 ---
 
