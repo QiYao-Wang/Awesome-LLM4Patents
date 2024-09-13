@@ -22,7 +22,7 @@
 
 > 🔥 for papers with >50 citations or repositories with >200 stars.\
 > 📖 for papers accepted by reputed conferences/journals.\
-> ❌ for papers that I haven't read.
+> ❌ for papers that I haven't read.\ 
 > 🙋 for papers that I wrote.
 
 ### Survey
