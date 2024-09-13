@@ -23,6 +23,7 @@
 > 🔥 for papers with >50 citations or repositories with >200 stars.\
 > 📖 for papers accepted by reputed conferences/journals.\
 > ❌ for papers that I haven't read.
+> 🙋 for papers that I wrote.
 
 ### Survey
 
@@ -45,6 +46,6 @@
 
 ### Evaluation
 
-- [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
+- 🙋 [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
 - 📖 [Feb. 2024] MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property. *Shiwen Ni, Minghuan Tan, Yuelin Bai, ..., Min Yang et.al.*. LREC-COLING 2024. [[paper](https://arxiv.org/pdf/2402.16389)][[github](https://github.com/AI-for-Science/MoZi)]
 - 📖 [July 2022] The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications. *Mirac Suzgun, Luke Melas-Kyriazi, Suproteem K. Sarkar et.al.*. Neurips 2022. [[paper](https://arxiv.org/pdf/2207.04043)][[website](https://patentdataset.org/)][[github](https://github.com/suzgunmirac/hupd)][[huggingface](https://huggingface.co/datasets/HUPD/hupd)]
