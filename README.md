@@ -44,6 +44,8 @@
 
 ### Patents with Multimodal
 
+- [Sep. 2023] PatFig: Generating Short and Long Captions for Patent Figures. *Dana Aubakirova, Kim Gerdes, Lufei Liu*. ICCV 2023. [[paper](https://arxiv.org/pdf/2309.08379)][[huggingface](https://huggingface.co/datasets/danaaubakirova/patfig)]
+
 ### Evaluation
 
 - 🙋 [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
