@@ -48,6 +48,7 @@
 
 ### Evaluation
 
+- ❌ 📖 [June 2024] PatentEval: Understanding Errors in Patent Generation. *You Zuo (ALMAnaCH), Kim Gerdes (LISN), Eric Villemonte de La Clergerie (ALMAnaCH), Benoît Sagot (ALMAnaCH)*. NAACL 2024.[[paper](https://arxiv.org/pdf/2406.06589)]
 - 🙋 [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
 - 📖 [Feb. 2024] MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property. *Shiwen Ni, Minghuan Tan, Yuelin Bai, ..., Min Yang et.al.*. LREC-COLING 2024. [[paper](https://arxiv.org/pdf/2402.16389)][[github](https://github.com/AI-for-Science/MoZi)]
 - 📖 [July 2022] The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications. *Mirac Suzgun, Luke Melas-Kyriazi, Suproteem K. Sarkar et.al.*. Neurips 2022. [[paper](https://arxiv.org/pdf/2207.04043)][[website](https://patentdataset.org/)][[github](https://github.com/suzgunmirac/hupd)][[huggingface](https://huggingface.co/datasets/HUPD/hupd)]
