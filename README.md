@@ -48,6 +48,8 @@
 
 ### Patent Information Extraction and KG
 
+- ❌ [March 2024] LLM-based Extraction of Contradictions from Patents. *Stefan Trapp, Joachim Warschat*. [[paper](https://arxiv.org/pdf/2403.14258)]
+
 ### Patent Writing
 
 - [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)][[github](https://github.com/scylj1/LLM4DPCG)]
