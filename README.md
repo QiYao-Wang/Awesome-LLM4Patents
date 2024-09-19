@@ -30,6 +30,7 @@
 ### Survey
 
 - [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
+- ❌ [April 2024] A Comprehensive Survey on AI-based Methods for Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.08668)]
 
 ### Patent Model Optimizing
 
@@ -53,7 +54,7 @@
 ### Patents with Multimodal
 
 - ❌ 📖 [Sep. 2023] PatFig: Generating Short and Long Captions for Patent Figures. *Dana Aubakirova, Kim Gerdes, Lufei Liu*. ICCV 2023. [[paper](https://arxiv.org/pdf/2309.08379)][[huggingface](https://huggingface.co/datasets/danaaubakirova/patfig)]
-- ❌ [April 2024] Large Language Model Informed Patent Image Retrieval. *Hao-Cheng Lo, Jung-Mei Chu, Jieh Hsiang, Chun-Chieh Cho*. [[paper](https://arxiv.org/pdf/2404.19360)]
+- ❌ [April 2024] Large Language Model Informed Patent Image Retrieval. *Hao-Cheng Lo, Jung-Mei Chu, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.19360)]
 
 ### Evaluation and Dataset
 
