@@ -14,7 +14,6 @@
   - [Survey](#survery)
   - [Patent Model Optimizing](#patent-model-optimizing)
   - [Patent Retrieval](#patent-retrieval)
-  - [Patent Simplification](#patent-simplification)
   - [Patent Information Extraction and KG](#patent-information-extraction-and-KG)
   - [Patent Agents](#patent-agents)
   - [Patents (IP) with Multimodal](#patents-with-multimodal)
@@ -43,10 +42,6 @@
 
 - ❌ [March 2024] A comparative analysis of embedding models for patent similarity. *Grazia Sveva Ascione, Valerio Sterzi*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.16630)]
 
-### Patent Simplification
-
-- ❌ 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
-
 ### Patent Information Extraction and KG
 
 - ❌ [March 2024] LLM-based Extraction of Contradictions from Patents. *Stefan Trapp, Joachim Warschat*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.14258)]
@@ -54,6 +49,7 @@
 ### Patent Writing
 
 - [June 2024] Can Large Language Models Generate High-quality Patent Claims?. *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)][[github](https://github.com/scylj1/LLM4DPCG)]
+- ❌ 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
 - ❌ 📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
 
 ### Patent Agents
