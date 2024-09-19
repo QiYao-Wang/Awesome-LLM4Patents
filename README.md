@@ -40,6 +40,8 @@
 
 ### Patent Retrieval
 
+- [March 2024] A comparative analysis of embedding models for patent similarity. *Grazia Sveva Ascione, Valerio Sterzi*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.16630)]
+
 ### Patent Simplification
 
 - ❌ 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
