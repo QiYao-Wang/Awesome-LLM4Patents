@@ -48,7 +48,7 @@
 
 ### Patent Information Extraction and KG
 
-- ❌ [March 2024] LLM-based Extraction of Contradictions from Patents. *Stefan Trapp, Joachim Warschat*. [[paper](https://arxiv.org/pdf/2403.14258)]
+- ❌ [March 2024] LLM-based Extraction of Contradictions from Patents. *Stefan Trapp, Joachim Warschat*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.14258)]
 
 ### Patent Writing
 
