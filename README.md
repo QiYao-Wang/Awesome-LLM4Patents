@@ -56,6 +56,7 @@
 ### Evaluation and Dataset
 
 - ❌ [Sep. 2024] Intelligent Innovation Dataset on Scientific Research Outcomes and Patents. *Xinran Wu, Hui Zou, Yidan Xing, Jingjing Qu, Qiongxiu Li, Renxia Xue, Xiaoming Fu*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.06936)][[dataset](https://openxlab.org.cn/datasets/Gracie/ZHICHUANGDATA)]
+- ❌ [July 2024] A Comparative Study of Quality Evaluation Methods for Text Summarization. *Huyen Nguyen, Haihua Chen, Lavanya Pobbathi, Junhua Ding*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2407.00747)]
 - ❌ 📖 [June 2024] PatentEval: Understanding Errors in Patent Generation. *You Zuo (ALMAnaCH), Kim Gerdes (LISN), Eric Villemonte de La Clergerie (ALMAnaCH), Benoît Sagot (ALMAnaCH)*. NAACL 2024.[[paper](https://arxiv.org/pdf/2406.06589)]
 - 🙋 [June 2024] IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. *Qiyao Wang, Jianguo Huang, Shule Lu et.al.* [[paper](https://arxiv.org/pdf/2406.12386)][[website](https://ipeval.github.io)][[github](https://github.com/QiYao-Wang/IPEval)][[huggingface](https://huggingface.co/datasets/QiYao-Wang/IPEval)]
 - 📖 [Feb. 2024] MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property. *Shiwen Ni, Minghuan Tan, Yuelin Bai, ..., Min Yang et.al.*. LREC-COLING 2024. [[paper](https://arxiv.org/pdf/2402.16389)][[github](https://github.com/AI-for-Science/MoZi)]
