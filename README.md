@@ -16,6 +16,7 @@
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
   - [Patent Information Extraction and KG](#patent-information-extraction-and-KG)
+  - [Patent Agents](#patent-agents)
   - [Patents (IP) with Multimodal](#patents-with-multimodal)
   - [Evaluation and Dataset](#evaluation-and-dataset)
 ---
