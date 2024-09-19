@@ -13,9 +13,9 @@
   - [Survey](#survery)
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
-  - [Patent Information Extraction & KG](#patent-information-extraction-&-KG)
+  - [Patent Information Extraction and KG](#patent-information-extraction-and-KG)
   - [Patents (IP) with Multimodal](#patents-with-multimodal)
-  - [Evaluation & Dataset](#evaluation-&-dataset)
+  - [Evaluation and Dataset](#evaluation-and-dataset)
 ---
 
 ## Papers
