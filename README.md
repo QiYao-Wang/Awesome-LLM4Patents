@@ -35,7 +35,7 @@
 
 - ❌ 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
 
-### Patent Information Extraction & KG
+### Patent Information Extraction and KG
 
 ### Patent Writing
 
@@ -46,7 +46,7 @@
 
 - ❌ 📖 [Sep. 2023] PatFig: Generating Short and Long Captions for Patent Figures. *Dana Aubakirova, Kim Gerdes, Lufei Liu*. ICCV 2023. [[paper](https://arxiv.org/pdf/2309.08379)][[huggingface](https://huggingface.co/datasets/danaaubakirova/patfig)]
 
-### Evaluation & Dataset
+### Evaluation and Dataset
 
 - ❌ [Sep. 2024] Intelligent Innovation Dataset on Scientific Research Outcomes and Patents. *Xinran Wu, Hui Zou, Yidan Xing, Jingjing Qu, Qiongxiu Li, Renxia Xue, Xiaoming Fu*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.06936)][[dataset](https://openxlab.org.cn/datasets/Gracie/ZHICHUANGDATA)]
 - ❌ 📖 [June 2024] PatentEval: Understanding Errors in Patent Generation. *You Zuo (ALMAnaCH), Kim Gerdes (LISN), Eric Villemonte de La Clergerie (ALMAnaCH), Benoît Sagot (ALMAnaCH)*. NAACL 2024.[[paper](https://arxiv.org/pdf/2406.06589)]
