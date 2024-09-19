@@ -12,6 +12,7 @@
 
 - [Papers](#papers)
   - [Survey](#survery)
+  - [Patent Model Optimizing](#patent-model-optimizing)
   - [Patent Retrieval](#patent-retrieval)
   - [Patent Simplification](#patent-simplification)
   - [Patent Information Extraction and KG](#patent-information-extraction-and-KG)
