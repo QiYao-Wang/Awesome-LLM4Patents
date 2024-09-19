@@ -30,6 +30,10 @@
 
 - [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
 
+### Patent Model Optimizing
+
+- ❌ [Sep. 2024] PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method. *Runtao Ren, Jian Ma*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.00092)]
+
 ### Patent Retrieval
 
 ### Patent Simplification
