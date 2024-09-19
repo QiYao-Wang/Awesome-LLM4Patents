@@ -40,7 +40,7 @@
 
 ### Patent Retrieval
 
-- [March 2024] A comparative analysis of embedding models for patent similarity. *Grazia Sveva Ascione, Valerio Sterzi*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.16630)]
+- ❌ [March 2024] A comparative analysis of embedding models for patent similarity. *Grazia Sveva Ascione, Valerio Sterzi*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.16630)]
 
 ### Patent Simplification
 
@@ -57,7 +57,7 @@
 
 ### Patent Agents
 
-- [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
+- ❌ [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
 
 ### Patents with Multimodal
 
