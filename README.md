@@ -19,7 +19,7 @@
     - [Long-Context Generation](#long-context-generation)
   - [Patent Information Extraction and KG](#patent-information-extraction-and-KG)
   - [Patent Agents](#patent-agents)
-  - [Patents (IP) with Multimodal](#patents-(IP)-with-multimodal)
+  - [Patents (IP) with Multimodal](#patents-with-multimodal)
   - [Evaluation and Dataset](#evaluation-and-dataset)
 ---
 
@@ -62,7 +62,7 @@
 
 - ❌ [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
 
-### Patents (IP) with Multimodal
+### Patents with Multimodal
 
 - ❌ 📖 [Sep. 2023] PatFig: Generating Short and Long Captions for Patent Figures. *Dana Aubakirova, Kim Gerdes, Lufei Liu*. ICCV 2023. [[paper](https://arxiv.org/pdf/2309.08379)][[huggingface](https://huggingface.co/datasets/danaaubakirova/patfig)]
 - ❌ [April 2024] Large Language Model Informed Patent Image Retrieval. *Hao-Cheng Lo, Jung-Mei Chu, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.19360)]
