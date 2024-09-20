@@ -58,6 +58,8 @@
 
 #### Long-Context Generation
 
+- ❌ [Aug. 2024] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs. *Yushi Bai, Jiajie Zhang, Xin Lv et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2408.07055)][[github](https://github.com/THUDM/LongWriter)][[huggingface](https://huggingface.co/datasets/THUDM/LongWriter-6k)]
+
 ### Patent Agents
 
 - ❌ [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
