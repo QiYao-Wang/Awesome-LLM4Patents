@@ -58,7 +58,7 @@
 
 #### Long-Context Generation
 
-- ❌ [Aug. 2024] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs. *Yushi Bai, Jiajie Zhang, Xin Lv et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2408.07055)][[github](https://github.com/THUDM/LongWriter)][[huggingface](https://huggingface.co/datasets/THUDM/LongWriter-6k)]
+- [Aug. 2024] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs. *Yushi Bai, Jiajie Zhang, Xin Lv et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2408.07055)][[github](https://github.com/THUDM/LongWriter)][[huggingface](https://huggingface.co/datasets/THUDM/LongWriter-6k)]
 
 ### Patent Agents
 
