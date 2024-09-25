@@ -39,7 +39,7 @@
 
 - ❌ [Sep. 2024] PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method. *Runtao Ren, Jian Ma*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.00092)]
 - ❌ [April 2024] PatentGPT: A Large Language Model for Intellectual Property. *Zilong Bai, Ruiji Zhang, Linqing Chen, Qijun Cai et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.18255)]
-- ❌ 📖[May 2024] InstructPatentGPT: Training patent language models to follow instructions with human feedback. *Jieh-Sheng Lee*. Artif Intell Law 2024. [[paper](https://arxiv.org/pdf/2406.16897)]
+- ❌ 📖 [May 2024] InstructPatentGPT: Training patent language models to follow instructions with human feedback. *Jieh-Sheng Lee*. Artif Intell Law 2024. [[paper](https://arxiv.org/pdf/2406.16897)]
 
 ### Patent Retrieval
 
