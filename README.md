@@ -21,7 +21,7 @@
   - [Patent Agents](#patent-agents)
   - [Patents (IP) with Multimodal](#patents-with-multimodal)
   - [Evaluation and Dataset](#evaluation-and-dataset)
-- [Repository](#repository)
+- [Repositories](#repositories)
 ---
 
 ## Papers
@@ -81,5 +81,5 @@
 - 📖 [Feb. 2024] MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property. *Shiwen Ni, Minghuan Tan, Yuelin Bai, ..., Min Yang et.al.*. LREC-COLING 2024. [[paper](https://arxiv.org/pdf/2402.16389)][[github](https://github.com/AI-for-Science/MoZi)]
 - 📖 [July 2022] The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications. *Mirac Suzgun, Luke Melas-Kyriazi, Suproteem K. Sarkar et.al.*. Neurips 2022. [[paper](https://arxiv.org/pdf/2207.04043)][[website](https://patentdataset.org/)][[github](https://github.com/suzgunmirac/hupd)][[huggingface](https://huggingface.co/datasets/HUPD/hupd)]
 
-## Repository
+## Repositories
 
