@@ -64,7 +64,7 @@
 - ❌ [Feb. 2024] LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration. *Jun Zhao, Can Zu, Hao Xu*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.11550)]
 
 ### Patent Agents
-
+- ❌ ❌ [Sep. 2024] Towards Automated Patent Workflows: AI-Orchestrated Multi-Agent Framework for Intellectual Property Management and Analysis. *Sakhinana Sagar Srinivas, Vijay Sri Vaikunth, Venkataramana Runkana*. Arxiv 2024. [[paper](https://export.arxiv.org/pdf/2409.19006)] 
 - ❌ [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
 
 ### Patents with Multimodal
