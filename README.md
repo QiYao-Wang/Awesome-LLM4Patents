@@ -33,13 +33,13 @@
 
 ### Survey
 
-- [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
-- ❌ [April 2024] A Comprehensive Survey on AI-based Methods for Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.08668)]
+- ❌ [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
+- [April 2024] A Comprehensive Survey on AI-based Methods for Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.08668)]
 
 ### Patent Model Optimizing
 
-- [Sep. 2024] PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method. *Runtao Ren, Jian Ma*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.00092)]
-- ❌ [April 2024] PatentGPT: A Large Language Model for Intellectual Property. *Zilong Bai, Ruiji Zhang, Linqing Chen, Qijun Cai et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.18255)]
+- ❌ [Sep. 2024] PatentGPT: A Large Language Model for Patent Drafting Using Knowledge-based Fine-tuning Method. *Runtao Ren, Jian Ma*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.00092)]
+- [April 2024] PatentGPT: A Large Language Model for Intellectual Property. *Zilong Bai, Ruiji Zhang, Linqing Chen, Qijun Cai et.al.*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.18255)]
 - ❌ 📖 [May 2024] InstructPatentGPT: Training patent language models to follow instructions with human feedback. *Jieh-Sheng Lee*. Artif Intell Law 2024. [[paper](https://arxiv.org/pdf/2406.16897)]
 
 ### Patent Retrieval
