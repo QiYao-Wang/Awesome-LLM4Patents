@@ -33,7 +33,7 @@
 
 ### Survey
 
-- ❌ [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
+- [March 2024] Natural Language Processing in Patents: A Survey. *Jiang, Lekang, and Stephan Goetz.* Arxiv 2024. [[paper](https://arxiv.org/pdf/2403.04105v2)]
 - [April 2024] A Comprehensive Survey on AI-based Methods for Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.08668)]
 
 ### Patent Model Optimizing
