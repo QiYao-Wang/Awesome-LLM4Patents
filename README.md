@@ -71,8 +71,8 @@
 - ❌ [Feb. 2024] From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models. *Jung-Mei Chu, Hao-Cheng Lo, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2402.00421)]
 
 ### Patents with Multimodal
-- ❌ [Dec. 2024] Large Multimodal Model for Generating Descriptions for Patent Figures. *Shreya Shukla, Nakul Sharma, Manish Gupta, Anand Mishra1*. [[paper](https://vl2g.github.io/projects/PatentLMM/PatentLMM.pdf)][[github](https://github.com/vl2g/PatentLMM)]
-- ❌ [Sep. 2024] IMPACT: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. [[paper(https://openreview.net/pdf?id=l0Ydsl10ci)]] [[github](https://github.com/AI4Patents/IMPACT)]
+- ❌ 📖 [Dec. 2024] Large Multimodal Model for Generating Descriptions for Patent Figures. *Shreya Shukla, Nakul Sharma, Manish Gupta, Anand Mishra1*. [[paper](https://vl2g.github.io/projects/PatentLMM/PatentLMM.pdf)][[github](https://github.com/vl2g/PatentLMM)]. AAAI 2025.
+- ❌ 📖 [Sep. 2024] IMPACT: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents. *Homaira Huda Shomee, Zhu Wang, Sathya N. Ravi, Sourav Medya*. [[paper(https://openreview.net/pdf?id=l0Ydsl10ci)]] [[github](https://github.com/AI4Patents/IMPACT)] Neurips 2024.
 - ❌ [April 2024] Large Language Model Informed Patent Image Retrieval. *Hao-Cheng Lo, Jung-Mei Chu, Jieh Hsiang, Chun-Chieh Cho*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2404.19360)]
 - ❌ 📖 [Sep. 2023] PatFig: Generating Short and Long Captions for Patent Figures. *Dana Aubakirova, Kim Gerdes, Lufei Liu*. ICCV 2023. [[paper](https://arxiv.org/pdf/2309.08379)][[huggingface](https://huggingface.co/datasets/danaaubakirova/patfig)]
 
