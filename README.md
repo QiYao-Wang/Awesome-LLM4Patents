@@ -54,7 +54,7 @@
 #### Patent Writing
 - 🙋 [Dec. 2024] AutoPatent: A Multi-Agent Framework for Automatic Patent Generation. ***Qiyao Wang**, Shiwen Ni, Huaren Liu, Shule Lu, Guhong Chen, Xi Feng, Chi Wei, Qiang Qu, Hamid Alinejad-Rokny, Yuan Lin, Min Yang*. Arxiv 2024. [[paper](https://arxiv.org/abs/2412.09796)][[github](https://github.com/QiYao-Wang/AutoPatent)]
 - [Oct. 2024] Pap2Pat: Towards Automated Paper-to-Patent Drafting using Chunk-based Outline-guided Generation. *Valentin Knappich, Simon Razniewski, Anna Hätty, Annemarie Friedrich*. Arxiv 2024. [[paper](https://arxiv.org/abs/2410.07009)][github](https://github.com/boschresearch/Pap2Pat/tree/main)]
-- [June 2024] Can Large Language Models Generate High-quality Patent Claims? *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)][[github](https://github.com/scylj1/LLM4DPCG)]
+- 📖 [June 2024] Can Large Language Models Generate High-quality Patent Claims? *Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz*. Arixv 2024. [[paper](https://arxiv.org/pdf/2406.19465)][[github](https://github.com/scylj1/LLM4DPCG)]
 - 📖 [Oct. 2023] Creating a Silver Standard for Patent Simplification. *Silvia Casola, Alberto Lavelli, Horacio Saggion*. SIGIR 2023. [[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591657)][[github](https://github.com/slvcsl/patentSilverStandard)]
 - 📖 [July 2022] PGT: a prompt based generative transformer for the patent domain. *Dimitrios Christofidellis, Antonio Berrios Torres, Ashish Dave et.al.*. IBM 2022. [[paper](https://openreview.net/pdf?id=dLHtwZKvJmE)]
 
