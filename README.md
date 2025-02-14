@@ -1,5 +1,7 @@
 # Awesome-LLM4Patents
 
+We will continue to follow up on research related to LLMs for the patent domain and explore further developments in this area. If you are interested in collaborating, please feel free to contact us. Email: `wangqiyao@mail.dlut.edu.cn`.
+
 [![](https://img.shields.io/github/stars/QiYao-Wang/Awesome-LLM4Patents)](https://github.com/QiYao-Wang/Awesome-LLM4Patents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
