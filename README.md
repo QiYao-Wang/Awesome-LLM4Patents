@@ -81,6 +81,7 @@ Email: `wangqiyao@mail.dlut.edu.cn`.
 
 ### Evaluation and Dataset
 
+- [Feb. 2025] Can AI Examine Novelty of Patents?: Novelty Evaluation Based on the Correspondence between Patent Claim and Prior Art. *Hayato Ikoma, Teruko Mitamura*. Arxiv 2025. [[paper](https://arxiv.org/abs/2502.06316)]
 - [Sep. 2024] Intelligent Innovation Dataset on Scientific Research Outcomes and Patents. *Xinran Wu, Hui Zou, Yidan Xing, Jingjing Qu, Qiongxiu Li, Renxia Xue, Xiaoming Fu*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2409.06936)][[dataset](https://openxlab.org.cn/datasets/Gracie/ZHICHUANGDATA)]
 - [July 2024] A Comparative Study of Quality Evaluation Methods for Text Summarization. *Huyen Nguyen, Haihua Chen, Lavanya Pobbathi, Junhua Ding*. Arxiv 2024. [[paper](https://arxiv.org/pdf/2407.00747)]
 - 📖 [June 2024] PatentEval: Understanding Errors in Patent Generation. *You Zuo (ALMAnaCH), Kim Gerdes (LISN), Eric Villemonte de La Clergerie (ALMAnaCH), Benoît Sagot (ALMAnaCH)*. NAACL 2024.[[paper](https://arxiv.org/pdf/2406.06589)]
